@@ -5,6 +5,8 @@ React admin panel dashboard using React Hooks and functional components. React.j
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![chrome-capture-2023-4-30](https://github.com/fetahokey/react-admin-dashboard/assets/32603079/194c07b3-5e1d-4aca-bea7-aebce4be50bc)
+
 ## Available Scripts
 
 In the project directory, you can run:
